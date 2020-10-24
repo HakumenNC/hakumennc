@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronny</h1>
 
-- 🔭 I’m currently working on [docker-schemacrawler-reporting](https://github.com/HakumenNC/docker-schemacrawler-reporting)
-
-- ⚡ Fun fact **It works on my machine**
+- 🔭 I’m currently working on :
+  - [docker-schemacrawler-reporting](https://github.com/HakumenNC/docker-schemacrawler-reporting)
+  - [logo-gallery](https://github.com/HakumenNC/logo-gallery)
+- ⚡ Fun fact : **It works on my machine**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
