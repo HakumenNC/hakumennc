@@ -11,6 +11,10 @@
 
 ## Languages and Tools:
 
+![bash](assets/bash.png "bash")
+![git](assets/git.png "git")
+![github](assets/github.png "github")
+![gitlab](assets/gitlab.png "gitlab")
 ![npm](assets/npm.png "npm")
 ![yarn](assets/yarn.png "yarn")
 ![angular](assets/angular.png "angular")
@@ -31,4 +35,13 @@
 ![postgresql](assets/postgresql.png "postgresql")
 ![sqlserver](assets/sqlserver.png "sqlserver")
 ![elasticsearch](assets/elasticsearch.png "elasticsearch")
+![logstash](assets/logstash.png "logstash")
+![kibana](assets/kibana.png "kibana")
+![intellij](assets/intellij.png "intellij")
+![androidstudio](assets/androidstudio.png "androidstudio")
+![vscode](assets/vscode.png "vscode")
+![dbeaver](assets/dbeaver.png "dbeaver")
+![postman](assets/postman.png "postman")
+![powerbi](assets/powerbi.png "powerbi")
+![slack](assets/slack.png "slack")
 ![photoshop](assets/photoshop.png "photoshop")
